@@ -1,4 +1,4 @@
 # Exercise
-I'm stuck! 
-I don't know how to store multiple value in the array?
-file name = game.py
+I have found one mistake!
+The variable "attempts" was in the function game() so it was always initialising itself.
+New problems and question are all in the file: game.py
